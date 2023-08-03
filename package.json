@@ -1,0 +1,20 @@
+{
+  "name": "wdio-qase-service",
+  "version": "1.0.0",
+  "description": "Service for integrating the submission of WebdriverIO test execution to Qase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webdriverio",
+    "wdio",
+    "wdio-service"
+  ],
+  "author": "qajonatasmartins",
+  "license": "ISC",
+  "dependencies": {
+    "pactum": "^3.4.1",
+    "webdriverio": "^8.14.3"
+  }
+}
